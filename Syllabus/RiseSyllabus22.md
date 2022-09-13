@@ -63,7 +63,7 @@ This class is suggested for current and future readers, writers, critics, and re
 ### Week 3: *Pamela* (1740)
 
 ##### September 12
-+ *Pamela*, 11-238
++ *Pamela*, 11-131; 187-212; 230-238
 + sentences
 
 ##### September 14
