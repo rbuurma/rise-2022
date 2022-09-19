@@ -74,12 +74,12 @@ This class is suggested for current and future readers, writers, critics, and re
 
 ##### September 16
 + Nancy Armstrong, from *Desire and Domestic Fiction*
-+ Text Exercise #2 due; Text Exercise #3 assigned
 
 ### Week 4: *Pamela* and *Shamela* (1741)
 
 ##### September 19
 + *Shamela*, all; bring *Pamela* text back to class as well
++ Text Exercise #2 due; Text Exercise #3 assigned
 + paragraphs
 
 ##### September 21
