@@ -112,12 +112,10 @@ This class is suggested for current and future readers, writers, critics, and re
 
 ##### October 3
 +  Evelina, 300-450
-+ Free indirect discourse and narrative monologue handout based on Cohn, *Transparent Minds* and Ferguson, "Jane Austen, Emma, and the Impact of Form"
-+ essay structure
 
 ##### October 5
 + no class
-+ Writing Assignment #3 revision due; Writing Assignment #4 assigned
++ Writing Assignment #3 revision due
 
 *Thursday, October 6: extra office hours tba*
 
@@ -125,7 +123,7 @@ This class is suggested for current and future readers, writers, critics, and re
 + Evelina, 300-450
 + Social Media Lecture 5: Privacy Policies
 + Dorrit Cohn handout (Dropbox)
-+ Text Exercise #4 Assigned
++ Writing Assignment #4 assigned
 
 ### Week 7: October Holiday
 Note: read *Northanger Abbey* and *A Woman of Color* (selections).
@@ -134,7 +132,8 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### October 17
 + *Northanger Abbey*, 36-240 (all)
-+ *The Woman of Color*, pages 53-107, 188-189
++ *The Woman of Color*, pages 53-107, 188-189; optional but useful: skim Introduction
++ Patricia Matthew, [review of Dominique edition of *The Woman of Colour*](https://romantic-circles.org/reviews-blog/woman-colour-tale-anonymous-ed-lyndon-j-dominique)
 + mid-semester: review of where we have been and where we are going
 + background (in class): Peter Fryer, from *Staying Power: the History of Black People in Britain*; G. Carter Woodson, from "Some Attitudes in English Literature"
 
@@ -143,13 +142,13 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 + excerpt from *Mansfield Park*
 + reminder of Dorrit Cohn handout on narrated monologue and free indirect discourse
 + Writing Assignment #4 due
++ Final paper/project preview
 
 ##### October 21
 + *Northanger Abbey*, continued
 + *The Woman of Color*, continued
-+ Ngũgĩ wa Thiong'o, from *Decolonizing the Mind*
 + Benedict Anderson, from *Imagined Communities*
-+ Text Exercise #4 due; Text Exercise #5 assigned
++ Text Exercise #4 assigned
 
 ### Week 9: *The Moonstone*
 
@@ -185,6 +184,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ##### November 4
 + *The Moonstone*, continued
 + Roland Barthes, "The Reality Effect"
++ Text Exercise #4 due; Text Exercise #5 assigned
 
 ### Week 11: Henry James, *Daisy Miller*
 
@@ -236,7 +236,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ##### November 30
 + exercise 8 due
 + N. Scott Momaday and Tom King, "Literature and the Native Writer"
-+ Writing Assignment #6 DRAFT due
++ Writing Assignment #6 PROPOSAL due
 
 ##### December 2
 + In-class criticism exam
@@ -250,6 +250,8 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ##### December 7
 + The end of the novel
 + Conclusions
+
+*Final paper/project proposal meetings this week*
 
 *Final papers/projects due by midnight, Dec 17*
 
