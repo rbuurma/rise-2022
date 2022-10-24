@@ -158,7 +158,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ##### October 26
 + *The Moonstone*, continued
 + Social Media Lecture 6: Other People Hold You in Mind
-+ + Michel Foucault, from *Discipline and Punish*
++ + Michel Foucault, from *Discipline and Punish*, 195-228 (can skim first chapter included on pdf if you want to)
 + D.A. Miller, from *The Novel and the Police* (chapter 2, 41-45, 52-57)
 + final paper/project assigned
 + Writing Assignment #4 revision due; Writing Assignment #5 assigned
