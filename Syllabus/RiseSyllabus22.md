@@ -170,7 +170,6 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ##### October 31
 + *The Moonstone*, second half
 + Social Media Lecture 7: We Are Watched From Above
-+ Final paper/project (Writing Assignment #6) assigned
 + Text exercise #4 assigned
 
 ##### November 2
@@ -178,7 +177,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 + *The Moonstone*, continued
 + Edward Said, from *Orientalism*
 + Gretchen Gerzina, from *Black Victorians, Black Victoriana* (in class)
-+ Writing Assignment #6 assigned
++ Final paper/project (Writing Assignment #6) assigned
 
 *Thursday, November 3: extra office hours tba*
 
