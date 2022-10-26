@@ -148,7 +148,6 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 + *Northanger Abbey*, continued
 + *The Woman of Color*, continued
 + Benedict Anderson, from *Imagined Communities*
-+ Text Exercise #4 assigned
 
 ### Week 9: *The Moonstone*
 
@@ -171,6 +170,8 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ##### October 31
 + *The Moonstone*, second half
 + Social Media Lecture 7: We Are Watched From Above
++ Final paper/project (Writing Assignment #6) assigned
++ Text exercise #4 assigned
 
 ##### November 2
 + Exercise 6 assigned
@@ -184,7 +185,6 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ##### November 4
 + *The Moonstone*, continued
 + Roland Barthes, "The Reality Effect"
-+ Text Exercise #4 due; Text Exercise #5 assigned
 
 ### Week 11: Henry James, *Daisy Miller*
 
@@ -199,7 +199,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ##### November 11
 + *Daisy Miller*, continued
 + Jameson, "The Realist Floor-plan"
-+ Text Exercise #5 due; Text Exercise #6 assigned
++ Text Exercise #4 due; Text Exercise #5 assigned
 
 ### Week 12: Virginia Woolf, *To The Lighthouse* (1927)
 
@@ -208,10 +208,10 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### November 16
 + *To The Lighthouse*
-+ Writing Assignment #6 PLAN due
 
 ##### November 18
 + *To the Lighthouse*
++ Text Exercise #5 due
 
 ### Week 13: *To The Lighthouse*, finish
 
@@ -223,7 +223,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ##### November 23
 + *To The Lighthouse*, continued
 + **Social Media Lecture 8: The Realist Detail**
-+ Text Exercise #6 due
++ Text Exercise #6 assigned
 
 ##### November 25
 + Thanksgiving Break; read *Winter in the Blood*, including Louise Erdrich's introduction.
@@ -231,7 +231,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ### Week 14: James Welch, *Winter in the Blood* (1974)
 
 ##### November 28
-+ *Winter in the Blood*
++ *Winter in the Blood*, all
 
 ##### November 30
 + exercise 8 due
@@ -240,6 +240,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### December 2
 + In-class criticism exam
++ Text Exercise #6 due
 
 ### Week 15: *Winter in the Blood*
 
