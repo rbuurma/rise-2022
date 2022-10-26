@@ -177,8 +177,8 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 + Exercise 6 assigned
 + *The Moonstone*, continued
 + Edward Said, from *Orientalism*
-+ Gretchen Gerzina, from *Black Victorians, Black Victoriana*
-+ Writing Assignment #5 due
++ Gretchen Gerzina, from *Black Victorians, Black Victoriana* (in class)
++ Writing Assignment #6 assigned
 
 *Thursday, November 3: extra office hours tba*
 
@@ -190,16 +190,18 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### November 7
 + *Daisy Miller*, all
++ Writing Assignment #5 due
 
 ##### November 9
 + *Daisy Miller*, continued
 + Social Media Lecture 8: Novel Platforms
-+ Writing Assignment #5 revision due; Writing Assignment #6 assigned
+
 
 ##### November 11
 + *Daisy Miller*, continued
 + Jameson, "The Realist Floor-plan"
 + Text Exercise #4 due; Text Exercise #5 assigned
+
 
 ### Week 12: Virginia Woolf, *To The Lighthouse* (1927)
 
@@ -208,6 +210,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### November 16
 + *To The Lighthouse*
++ Writing Assignment #5 revision due
 
 ##### November 18
 + *To the Lighthouse*
