@@ -173,7 +173,6 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 + Text exercise #4 assigned
 
 ##### November 2
-+ Exercise 6 assigned
 + *The Moonstone*, continued
 + Edward Said, from *Orientalism*
 + Gretchen Gerzina, from *Black Victorians, Black Victoriana* (in class)
