@@ -1,5 +1,5 @@
 ## Computing Austen’s differences
-### ENGL35 2021 Assignment 5, pairs with CS21 [Lab 8: DH/searching](https://www.cs.swarthmore.edu/courses/CS21Labs/f17/labs/lab08.html) and [Lab 9: DH/sorting](https://www.cs.swarthmore.edu/courses/CS21Labs/f17/labs/lab09.html)
+### ENGL35 2021 Assignment 4, pairs with CS21 [Lab 8: DH/searching](https://www.cs.swarthmore.edu/courses/CS21Labs/f17/labs/lab08.html) and [Lab 9: DH/sorting](https://www.cs.swarthmore.edu/courses/CS21Labs/f17/labs/lab09.html)
 #### by Rachel Sagner Buurma and Rich Wicentowski
 
 Summary: *This assignment will ask: how specifically are Jane Austen's novels (written and published between approximately 1790 and 1818) different from those of her contemporaries? How different are they from the other eighteenth-century and early-nineteenth-century novels we might read in a class on the history of the novel in English?*
