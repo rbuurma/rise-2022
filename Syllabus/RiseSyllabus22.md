@@ -194,7 +194,6 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 + *Daisy Miller*, continued
 + Social Media Lecture 8: Novel Platforms
 
-
 ##### November 11
 + *Daisy Miller*, continued
 + Jameson, "The Realist Floor-plan"
@@ -212,7 +211,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### November 18
 + *To the Lighthouse*
-+ Text Exercise #5 due
++ Text Exercise #4 due; Text Exercise #5 assigned
 
 ### Week 13: *To The Lighthouse*, finish
 
@@ -224,7 +223,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ##### November 23
 + *To The Lighthouse*, continued
 + **Social Media Lecture 8: The Realist Detail**
-+ Text Exercise #6 assigned
++ Text Exercise #5 due; Text Exercise #6 assigned
 
 ##### November 25
 + Thanksgiving Break; read *Winter in the Blood*, including Louise Erdrich's introduction.
