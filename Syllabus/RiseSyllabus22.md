@@ -197,8 +197,6 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ##### November 11
 + *Daisy Miller*, continued
 + Jameson, "The Realist Floor-plan"
-+ Text Exercise #4 due; Text Exercise #5 assigned
-
 
 ### Week 12: Virginia Woolf, *To The Lighthouse* (1927)
 
@@ -247,7 +245,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ##### December 5
 + *Winter in the Blood*
 + Sterling HolyWhiteMountain, "On Culture Shock," *New Yorker* interview (2021)
-+ Text Exercise #6 due 
++ Text Exercise #6 due
 
 ##### December 7
 + The end of the novel
