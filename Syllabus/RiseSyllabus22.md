@@ -201,7 +201,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ### Week 12: Virginia Woolf, *To The Lighthouse* (1927)
 
 ##### November 14
-+ *To The Lighthouse* first half
++ *To The Lighthouse*, 3-125
 
 ##### November 16
 + *To The Lighthouse*
@@ -214,7 +214,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ### Week 13: *To The Lighthouse*, finish
 
 ##### November 21
-+ *To The Lighthouse*, continued
++ *To The Lighthouse*, 125-209
 + Erich Auerbach, "The Brown Stocking" from *Mimesis*
 + Discuss criticism exam
 
