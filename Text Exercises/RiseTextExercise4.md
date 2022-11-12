@@ -71,41 +71,33 @@ Are either of these corpora a perfect representation of the "real" archive of al
 
 We will be running this program - written in the programming language Python - from the command line via your Terminal (on Mac) or PowerShell (on PC). The command line is simply a tool for viewing and interacting with the files and programs on your computer. In order to understand the basics of running Python programs if you have not worked with Python before, you will complete a tutorial.
 
-To run this program, you will need Python3. If you don't have Python 3 on your own computer, you should either come to one of our labs to use computers with Python 3 pre-installed, or you should install Python 3 on your computer.
-
-Warning: depending on your configuration and computer, installing Python 3 could cause some of the existing programs you use to break; if you don't feel confident about your ability to figure this out, either talk to Professor Buurma in class or - *best option* - come to lab.
-
 ### Before beginning: Python tutorial
 
-Look at the first few lessons of this brief [tutorial](https://learnpythonthehardway.org/book/appendix-a-cli/introduction.html), which will take you through the basics of how to navigate your file structure and run programs from the command line for earlier assignments; you may wish to refresh your memory before moving forward. The lesson teaching you [how to get on the command line](https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html) is essential. This one teaches you to [change directories (cd)](https://learnpythonthehardway.org/book/appendix-a-cli/ex5.html) -ie, move to the folder where the files you will be working with are - and is also essential.
+To run this program, you will need Python3. To install Python 3,[go here](https://www.python.org/downloads/) and follow the prompts to install it on your hard drive in your Applications folder (or wherever you prefer). Once installed, take a look in the new Python folder; it should include a few files and applications, including the Python Launcher. Once you see this, you can move on to the next step, below.
+
+(Note: Though you will not need any of this for this exercise if you are using the Python Launcher, the following [tutorial](https://learnpythonthehardway.org/book/appendix-a-cli/introduction.html) will take you through the basics of how to navigate your file structure and run programs from the command line. The lesson teaching you [how to get on the command line](https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html) is useful in general, though the Python Launcher will find your Terminal or Powershell for you. This one teaches you to [change directories (cd)](https://learnpythonthehardway.org/book/appendix-a-cli/ex5.html) -ie, move to the folder where the files you will be working with are - and is also useful.)
 
 ### Running the "more distinctive words" program
 
 Before we run the program, let's let's take a quick look at it.
 
-1. Download the our corpus and code, [Rise18-Assignment8 corpus and and code](https://github.com/rbuurma/Rise18-Assignment8), by clicking on the green CODE button, selecting the zip file download, and then expanding the zip file by clicking on it once you've downloaded it. Save it somewhere that makes sense to you.
+1. Download the our corpus and code, [Rise18-Assignment8-master corpus and and code](https://github.com/rbuurma/Rise18-Assignment8), by clicking on the green CODE button, selecting the zip file download, and then expanding the zip file by clicking on it once you've downloaded it. Save it somewhere that makes sense to you.
 
 2. If you haven't already installed [the Atom code editor](https://atom.io/), do so now.
 
-3. Then open textinfo.py with Atom and take at least a brief look. This step is just to give you the sense of how to open the file and what it looks like.
+3. In the "bin" folder within Rise18=Assignment8-master you will see several versions of the code, the textinfo.py version version written by Professor Wicentowski, and other versions written by various students from Professor Wicentowski's Fall 2017 CS21 -  Danielle Rossetti textinfo_dr.py,  Alex Galarraga textinfo_ag.py, Jason Wong textinfo_jw.py, and Rise 2017's own Hannah Kloetzer textinfo_hk.py.
 
-Now let's prepare to actually run the program.
-
-4. Open your Terminal or PowerShell and change directory (cd) into the "bin" folder within the assignment folder.
-
-5. In the "bin" folder you will see several versions of the code, one version written by Professor Wicentowski, and other versions written by various students from Professor Wicentowski's Fall 2017 CS21 -  Danielle Rossetti textinfo_dr.py,  Alex Galarraga textinfo_ag.py, Jason Wong textinfo_jw.py, and Rise 2017's own Hannah Kloetzer textinfo_hk.py.
+Open textinfo.py with Atom so that you can VIEW (not yet run) the code and take at least a brief look. This step is just to give you the sense of how to open the file and what it looks like.
 
 Each version of the code will do more or less the same thing. There are, however, some slight differences. *Therefore we highly recommend running textinfo.py as well as one or more of the other versions; watch for the slightly different outputs, and prepare to consider what has caused the differences.*
 
-6. At long last, let's run the code.  To do that, you have to tell the computer that you will be using python 3, and then tell it which code file you want to use. Start by running textinfo.py. To do that, type:
+Now let's prepare to actually run the program.
 
-> python3 textinfo.py
+4. At long last, let's run the code.  To do that, right-click on textinfo.py (or whichever version you want to run) and select the Python Launcher program from the (probably long) list of options. Selecting it will open your Terminal or PowerShell window. (You may recieve a prompt asking you to allow Python Launch to access your files - allow it.) The program will run, prompting you to choose two corpora to compare. Try comparing AUSTEN and BRUNTON by typing in the corresponding integers just as a start.
 
-And follow the assignment's prompts to compare two texts or corpora.
+5. You will see a few outputs. First, there will be a list of most frequent words in each corpus with a number alongside telling you how many times that word occurs. These can be potentially interesting, but will not be our primary focus. Next comes the two list of "most distinctive" word in each corpus; each word is accompanied by a number that tells you how many times the word appears in (for example) Austen than in BRUNTON.
 
-You will see a few outputs. First, there will be a list of most frequent words in each corpus with a number alongside telling you how many times that word occurs. These can be potentially interesting, but will not be our primary focus. Next comes the two list of "most distinctive" word in each corpus; each word is accompanied by a number that tells you how many times the word appears in Corpus A than in Corpus B.s
-
-You will then also be able to select any word from that list and ask the program to display all instances of it in the context of the surrounding words from the text, which will give you a sense of the word's uses. (This is called Keyword in Context, or KWiC, as discussed in class.)
+You will then also be able to select any word from that list and ask the program to display all instances of it in the context of the surrounding words from the text, which will give you a sense of the word's uses. (This is called Keyword in Context, or KWiC.)
 
 ### Interpret
 
