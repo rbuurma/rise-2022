@@ -218,9 +218,7 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 + Erich Auerbach, "The Brown Stocking" from *Mimesis*
 + Discuss criticism exam
 
-##### November 23
-+ *To The Lighthouse*, continued
-+ **Social Media Lecture 8: The Realist Detail**
+##### November 23 - NO CLASS
 
 ##### November 25
 + Thanksgiving Break; read *Winter in the Blood*, including Louise Erdrich's introduction.
@@ -230,9 +228,9 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 ##### November 28
 + *Winter in the Blood*, all
 + Text Exercise #5 due; Text Exercise #6 assigned
++ + **Social Media Lecture 8: The Realist Detail**
 
 ##### November 30
-+ exercise 8 due
 + N. Scott Momaday and Tom King, "Literature and the Native Writer"
 + Writing Assignment #6 PROPOSAL due
 
