@@ -71,11 +71,9 @@ Are either of these corpora a perfect representation of the "real" archive of al
 
 We will be running this program - written in the programming language Python - from the command line via your Terminal (on Mac) or PowerShell (on PC). The command line is simply a tool for viewing and interacting with the files and programs on your computer. In order to understand the basics of running Python programs if you have not worked with Python before, you will complete a tutorial.
 
-### Before beginning: Python tutorial
+### Before beginning: installing Python with the Python Launcher
 
-To run this program, you will need Python3. To install Python 3,[go here](https://www.python.org/downloads/) and follow the prompts to install it on your hard drive in your Applications folder (or wherever you prefer). Once installed, take a look in the new Python folder; it should include a few files and applications, including the Python Launcher. Once you see this, you can move on to the next step, below.
-
-(Note: Though you will not need any of this for this exercise if you are using the Python Launcher, the following [tutorial](https://learnpythonthehardway.org/book/appendix-a-cli/introduction.html) will take you through the basics of how to navigate your file structure and run programs from the command line. The lesson teaching you [how to get on the command line](https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html) is useful in general, though the Python Launcher will find your Terminal or Powershell for you. This one teaches you to [change directories (cd)](https://learnpythonthehardway.org/book/appendix-a-cli/ex5.html) -ie, move to the folder where the files you will be working with are - and is also useful.)
+To run this program, you will need Python 3. To install Python 3,[go here](https://www.python.org/downloads/)and follow the prompts to install it on your hard drive in your Applications folder (or wherever you prefer). Once installed, take a look in your new Python folder; it should include a few files and applications, including the Python Launcher. Once you see this, you can move on to the next step, below.
 
 ### Running the "more distinctive words" program
 
@@ -90,8 +88,6 @@ Before we run the program, let's let's take a quick look at it.
 Open textinfo.py with Atom so that you can VIEW (not yet run) the code and take at least a brief look. This step is just to give you the sense of how to open the file and what it looks like.
 
 Each version of the code will do more or less the same thing. There are, however, some slight differences. *Therefore we highly recommend running textinfo.py as well as one or more of the other versions; watch for the slightly different outputs, and prepare to consider what has caused the differences.*
-
-Now let's prepare to actually run the program.
 
 4. At long last, let's run the code.  To do that, right-click on textinfo.py (or whichever version you want to run) and select the Python Launcher program from the (probably long) list of options. Selecting it will open your Terminal or PowerShell window. (You may recieve a prompt asking you to allow Python Launch to access your files - allow it.) The program will run, prompting you to choose two corpora to compare. Try comparing AUSTEN and BRUNTON by typing in the corresponding integers just as a start.
 
