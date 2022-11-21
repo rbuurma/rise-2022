@@ -235,18 +235,17 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 + Writing Assignment #6 PROPOSAL due
 
 ##### December 2
-+ In-class criticism exam
 + Text Exercise #6 due
++ Sterling HolyWhiteMountain, "On Culture Shock," *New Yorker* interview (2021)
 
 ### Week 15: *Winter in the Blood*
 
 ##### December 5
-+ *Winter in the Blood*
-+ Sterling HolyWhiteMountain, "On Culture Shock," *New Yorker* interview (2021)
-+ Text Exercise #6 due
++ In-class criticism exam
 
 ##### December 7
-+ The end of the novel
++ *Winter in the Blood*
++ Text Exercise #6 due
 + Conclusions
 
 *Final paper/project proposal meetings this week*
