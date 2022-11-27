@@ -227,16 +227,13 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### November 28
 + *Winter in the Blood*, all
-+ Text Exercise #5 due; Text Exercise #6 assigned
-+ + **Social Media Lecture 8: The Realist Detail**
 
 ##### November 30
-+ N. Scott Momaday and Tom King, "Literature and the Native Writer"
+
 + Writing Assignment #6 PROPOSAL due
 
 ##### December 2
-+ Text Exercise #6 due
-+ Sterling HolyWhiteMountain, "On Culture Shock," *New Yorker* interview (2021)
++ Text Exercise #5 due
 
 ### Week 15: *Winter in the Blood*
 
@@ -245,7 +242,8 @@ Note: read *Northanger Abbey* and *A Woman of Color* (selections).
 
 ##### December 7
 + *Winter in the Blood*
-+ Text Exercise #6 due
++ N. Scott Momaday and Tom King, "Literature and the Native Writer"
++ Sterling HolyWhiteMountain, "On Culture Shock," *New Yorker* interview (2021)
 + Conclusions
 
 *Final paper/project proposal meetings this week*
